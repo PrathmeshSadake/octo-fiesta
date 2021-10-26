@@ -38,11 +38,11 @@ body {
   position: absolute;
   content: "";
   width: 100%;
-  height: 3px;
+  height: 1px;
   top: 100%;
   left: 0;
   background: #ff7088;
-  transition: transform 1s;
+  transition: transform 2s;
   transform: scaleX(0);
   transform-origin: right;
 }
