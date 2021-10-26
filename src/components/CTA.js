@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from "react-router-dom";
 
 const CTA = () => {
   return (
@@ -17,13 +18,13 @@ const CTA = () => {
             waiting for you.
           </p>
         </div>
-        <a
+        <Link
           class="inline-block ml-auto w-full md:w-auto px-12 py-4 text-center text-sm text-white font-medium leading-normal bg-red-400 hover:bg-red-300 rounded transition duration-200"
-          href="/"
+          to="/about-us"
           data-config-id="primary-action"
         >
           Plan a Trip
-        </a>
+        </Link>
       </div>
     </section>
   );

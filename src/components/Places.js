@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from "react-router-dom";
 
 const Places = () => {
   return (
@@ -6,7 +7,7 @@ const Places = () => {
       <div class="container mx-auto px-4">
         <div class="max-w-3xl mx-auto mb-12 lg:mb-16 text-center">
           <h2 class="my-8 text-4xl font-semibold" data-config-id="header">
-            Don't wait until tomorrow, discover your adventure now 🌎
+            Don't wait until tomorrow, discover your adventure now🌎
           </h2>
           <p className="mb-16 text-xl text-gray-500">
             To get best of adventure you just need to leave and go where you
@@ -66,12 +67,12 @@ const Places = () => {
           </div>
         </div>
         <div class="mt-24 text-center">
-          <a
+          <Link
             class="px-8 py-4 text-sm text-white font-medium leading-normal bg-red-400 hover:bg-red-300 rounded transition duration-200"
-            href="/"
+            to="/destinations"
           >
             See all destinations
-          </a>
+          </Link>
         </div>
       </div>
     </section>
