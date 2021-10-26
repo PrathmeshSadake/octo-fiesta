@@ -18,18 +18,14 @@ const Destinations = () => {
                 class="mb-4 text-3xl font-semibold font-heading"
                 data-config-id="title1"
               >
-                Lorem ipsum dolor
+                Thailand
               </h2>
-              <span
-                class="inline-block mb-6 text-xs text-gray-500"
-                data-config-id="date1"
-              >
-                10 jun 2020 19:40
-              </span>
+
               <p class="text-xl text-gray-500" data-config-id="desc1">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                Pellentesque massa nibh, pulvinar vitae aliquet nec, accumsan
-                aliquet orci.
+                Thailand is not just famous for its tropical beaches. The
+                country is also famed for its amazing rural locations that cater
+                extremely well for tourists despite seemingly being in the
+                middle of nowhere.
               </p>
             </div>
           </div>
@@ -67,18 +63,14 @@ const Destinations = () => {
                 class="mb-4 text-3xl font-semibold font-heading"
                 data-config-id="title2"
               >
-                Lorem ipsum dolor
+                Taj Mahal
               </h2>
-              <span
-                class="inline-block mb-6 text-xs text-gray-500"
-                data-config-id="date2"
-              >
-                10 jun 2020 19:40
-              </span>
+
               <p class="text-xl text-gray-500" data-config-id="desc2">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                Pellentesque massa nibh, pulvinar vitae aliquet nec, accumsan
-                aliquet orci.
+                The Taj Mahal, is an ivory-white marble mausoleum on the right
+                bank of the river Yamuna in the Indian city of Agra. It was
+                commissioned in 1632 by the Mughal emperor Shah Jahan to house
+                the tomb of his favourite wife, Mumtaz Mahal.
               </p>
             </div>
           </div>
@@ -96,18 +88,13 @@ const Destinations = () => {
                 class="mb-4 text-3xl font-semibold font-heading"
                 data-config-id="title1"
               >
-                Lorem ipsum dolor
+                Germany
               </h2>
-              <span
-                class="inline-block mb-6 text-xs text-gray-500"
-                data-config-id="date1"
-              >
-                10 jun 2020 19:40
-              </span>
+
               <p class="text-xl text-gray-500" data-config-id="desc1">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                Pellentesque massa nibh, pulvinar vitae aliquet nec, accumsan
-                aliquet orci.
+                Germany is the number one cultural travel destination for
+                Europeans. It additionally takes the lead as the top destination
+                in Europe for international luxury travel.
               </p>
             </div>
           </div>
@@ -145,18 +132,14 @@ const Destinations = () => {
                 class="mb-4 text-3xl font-semibold font-heading"
                 data-config-id="title2"
               >
-                Lorem ipsum dolor
+                Canada
               </h2>
-              <span
-                class="inline-block mb-6 text-xs text-gray-500"
-                data-config-id="date2"
-              >
-                10 jun 2020 19:40
-              </span>
+
               <p class="text-xl text-gray-500" data-config-id="desc2">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                Pellentesque massa nibh, pulvinar vitae aliquet nec, accumsan
-                aliquet orci.
+                Canada offers a broad range of cultural and geographical
+                features. The mighty Rocky Mountains and powerful pacific tides
+                meet with vibrant communities in British Columbia, while urban
+                flair mixes with cowboy culture in Alberta.
               </p>
             </div>
           </div>
@@ -174,18 +157,14 @@ const Destinations = () => {
                 class="mb-4 text-3xl font-semibold font-heading"
                 data-config-id="title3"
               >
-                Lorem ipsum dolor
+                New York
               </h2>
-              <span
-                class="inline-block mb-6 text-xs text-gray-500"
-                data-config-id="date3"
-              >
-                10 jun 2020 19:40
-              </span>
+
               <p class="text-xl text-gray-500" data-config-id="desc3">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                Pellentesque massa nibh, pulvinar vitae aliquet nec, accumsan
-                aliquet orci.
+                New York City has over 28,000 acres (110 km2) of parkland and 14
+                linear miles (22 km) of public beaches.[3][4] Manhattan's
+                Central Park, designed by Frederick Law Olmsted and Calvert
+                Vaux, is the most visited city park in the United States.
               </p>
             </div>
           </div>
@@ -223,18 +202,14 @@ const Destinations = () => {
                 class="mb-4 text-3xl font-semibold font-heading"
                 data-config-id="title4"
               >
-                Lorem ipsum dolor
+                Abu Dhabi, Dubai
               </h2>
-              <span
-                class="inline-block mb-6 text-xs text-gray-500"
-                data-config-id="date4"
-              >
-                10 jun 2020 19:40
-              </span>
               <p class="text-xl text-gray-500" data-config-id="desc4">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                Pellentesque massa nibh, pulvinar vitae aliquet nec, accumsan
-                aliquet orci.
+                The Sheikh Zayed Grand Mosque and Louvre Abu Dhabi are the major
+                tourist attractions, though, with kayaking trips amid the
+                Eastern Mangroves and the desert dune landscapes of Liwa Oasis
+                within day-tripping distance, there are plenty of adventures and
+                things to do on the city's doorstep.2
               </p>
             </div>
           </div>
