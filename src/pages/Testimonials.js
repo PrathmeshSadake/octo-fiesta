@@ -3,16 +3,6 @@ import React from "react";
 const Testimonials = () => {
   return (
     <section class="relative py-20">
-      <img
-        class="hidden lg:block absolute top-0 left-0 mt-10"
-        src="zeus-assets/icons/dots/blue-dot-left-bars.svg"
-        alt=""
-      />
-      <img
-        class="hidden lg:block absolute top-0 right-0 mt-64"
-        src="zeus-assets/icons/dots/yellow-dot-right-shield.svg"
-        alt=""
-      />
       <div class="container px-4 mx-auto">
         <div class="max-w-3xl mx-auto mb-12 lg:mb-20 text-center">
           <h2

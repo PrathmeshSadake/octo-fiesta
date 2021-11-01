@@ -5,11 +5,7 @@ const About = () => {
     <section class="relative py-20 overflow-x-hidden">
       <div class="container px-4 mx-auto">
         <div class="relative flex flex-wrap items-center -mx-4">
-          <img
-            class="hidden xl:block absolute top-0 right-0 mt-40 -mr-32"
-            src="zeus-assets/icons/dots/red-dot-right-shield.svg"
-            alt=""
-          />
+         
           <div class="relative w-full lg:w-1/2 px-4 pb-12 lg:pb-0">
             <div class="max-w-md">
               <h2
